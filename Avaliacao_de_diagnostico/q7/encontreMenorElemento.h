@@ -1,0 +1,1 @@
+int encontreMenorElemento(int arr[], int tamanho);

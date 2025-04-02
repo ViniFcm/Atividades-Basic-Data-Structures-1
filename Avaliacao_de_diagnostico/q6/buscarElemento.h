@@ -1,0 +1,1 @@
+int buscarElemento(int arr[], int tamanho, int alvo);

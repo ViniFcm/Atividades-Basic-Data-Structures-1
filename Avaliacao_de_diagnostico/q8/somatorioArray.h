@@ -1,0 +1,1 @@
+int somatorioArray(int arr[], int tamanho);

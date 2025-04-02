@@ -1,0 +1,1 @@
+int contarDivisivelpor3e5 (int N);

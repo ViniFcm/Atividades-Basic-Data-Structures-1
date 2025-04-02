@@ -1,0 +1,1 @@
+int elementoMaisFrequente(int arr[], int tamanho);

@@ -1,0 +1,1 @@
+double mediaArray(int arr[], int tamanho);

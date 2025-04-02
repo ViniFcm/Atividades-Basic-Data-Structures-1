@@ -1,0 +1,1 @@
+bool ehPrimo(int numero);

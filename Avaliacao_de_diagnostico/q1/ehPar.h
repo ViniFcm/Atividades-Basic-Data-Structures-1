@@ -1,0 +1,1 @@
+bool ehPar(int numero);
